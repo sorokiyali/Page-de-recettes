@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800;900&family=Outfit:wght@400;700&family=Work+Sans:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800;900&family=Outfit:wght@400;700&family=Work+Sans:wght@400;600;700&family=Young+Serif&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'outfit', sans-serif;
+    width: 100vh;
+    height: auto;
+    background-color: hsl(30, 54%, 90%);
+    font-size: 16px;
+}
+
+.container {
+    width: 35rem;
+    height: 100rem;
+    transform: translate(90%, 5%);
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1rem;
+}
+
+.under-container {
+    margin-left: 4rem;
+}
+
+img {
+    width: 30rem;
+    height: 15rem;
+    margin-top: 1rem;
+    transform: translate(8%, 8%);
+    border-radius: 1rem;
+
+}
+
+h1 {
+    margin: 2rem 0 1rem -1rem;
+    font-family: 'Young Serif',sans-serif;
+
+}
+
+p {
+    text-align: justify;
+    font-size: 0.9rem;
+    margin: 1rem 2rem 1rem -1rem;
+
+}
+
+.time {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 4px;
+    width: 100%;
+    margin: 1rem 2rem 0 -2rem;
+    padding: 30px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    line-height: 1rem;
+    color: hsl(14, 45%, 36%);
+}
+.plist{
+    color: black;
+    margin-left: 0.5rem;
+}
+
+.list{
+    color: black;
+    margin-left: 0.5rem;
+}
+
+h3 {
+    margin: -1rem 0 1rem 0;
+}
+
+
+.ingredient {
+    line-height: 1.5rem;
+}
+
+.ingredient h2 {
+    margin: 1rem 0 1rem -1rem;
+    color: hsl(14, 45%, 36%);
+    font-family: 'Young Serif',sans-serif;
+}
+
+.ingredient{
+    text-align: justify;
+    margin-right: 2rem;
+}
+
+
+hr{
+    margin-bottom: 1rem;
+    width: 22rem;
+}
+.instruction h2{
+    margin: 2rem 0 1rem -1rem;
+    color: hsl(14, 45%, 36%);
+    font-family: 'Young Serif',sans-serif;
+}
+
+.instruction{
+    text-align: justify;
+    margin-right: 2rem;
+}
+ol{
+    color: hsl(14, 45%, 36%);
+
+}
+
+.nutrition h2{
+    color: hsl(14, 45%, 36%);
+    font-family: 'Young Serif',sans-serif;
+
+}
+
+.nutri{
+    text-align: justify;
+    margin-right: 4rem;
+    margin-left: -1rem;
+}
+.col{
+    display:grid ;
+    
+}
+ td{
+    border-bottom: 1px solid rgb(175, 172, 172);
+}
