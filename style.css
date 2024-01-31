@@ -131,16 +131,12 @@ ol{
     
 }
  table{
-    border-spacing: 18px;
-   
+    border-collapse: collapse;
+    width: 100%;
 }
 
-/* td{
-    border-bottom: 1px solid rgb(175, 172, 172);
-   border-collapse: collapse;
-} */
 
-
-
-  table { border-collapse: collapse; }
-tr{ border-bottom: solid thin; }
+  
+tr{ 
+    border-bottom: solid thin;
+ }
