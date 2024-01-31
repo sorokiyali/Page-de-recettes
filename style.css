@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    border: none;
 }
 
 body {
@@ -130,6 +130,17 @@ ol{
     display:grid ;
     
 }
- td{
-    border-bottom: 1px solid rgb(175, 172, 172);
+ table{
+    border-spacing: 18px;
+   
 }
+
+/* td{
+    border-bottom: 1px solid rgb(175, 172, 172);
+   border-collapse: collapse;
+} */
+
+
+
+  table { border-collapse: collapse; }
+tr{ border-bottom: solid thin; }
