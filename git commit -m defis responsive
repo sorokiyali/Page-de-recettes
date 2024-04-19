@@ -1,0 +1,38 @@
+[33mcommit 246138bed3eca57bc2a05556e0860a73cb66f6f8[m[33m ([m[1;36mHEAD -> [m[1;32mfeat-sorokiyali-refont[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: b7911f3 01e132f
+Author: sorokiyali <143969521+sorokiyali@users.noreply.github.com>
+Date:   Thu Mar 21 14:23:43 2024 +0000
+
+    Merge pull request #2 from sorokiyali/reprise-total-du-defis
+    
+    Reprise total du defis
+
+[33mcommit 01e132f7e86145d7741cbfb3f24854b9d0260f56[m[33m ([m[1;32mreprise-total-du-defis[m[33m)[m
+Author: soro kiyali <sorokiyali21@gmail.com>
+Date:   Thu Feb 8 12:19:32 2024 +0000
+
+    desktop-design perfect
+
+[33mcommit 2bf34a16e43df9a8d6771fa652f569e896692249[m[33m ([m[1;31morigin/feat/tableau-composant[m[33m, [m[1;32mfeat/tableau-composant[m[33m)[m
+Author: soro kiyali <sorokiyali21@gmail.com>
+Date:   Wed Jan 31 11:33:06 2024 +0000
+
+    dernière mise en forme
+
+[33mcommit f58b71bc96930a797fea5b90f6dc895278d55425[m
+Author: soro kiyali <sorokiyali21@gmail.com>
+Date:   Wed Jan 31 09:55:56 2024 +0000
+
+    ce commit permet d'elargir la longueur du tableau
+
+[33mcommit b7911f319afed1b93bfa8bfce1e0ee98756903ac[m
+Author: soro kiyali <sorokiyali21@gmail.com>
+Date:   Wed Jan 31 09:43:13 2024 +0000
+
+    le table
+
+[33mcommit c0fb708a4d83b3c528fe3ff8bb0f06dfa8bcae4f[m
+Author: soro kiyali <sorokiyali21@gmail.com>
+Date:   Tue Jan 30 10:33:34 2024 +0000
+
+    mise en place page de recette
